@@ -1,5 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Hector Inglese",
+	"description": "This is a practice for FREECODECAMP",
+	"keywords": [
+		"practice",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
